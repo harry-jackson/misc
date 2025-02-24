@@ -23,3 +23,5 @@ for (i in 1:N) {
 
 # proportion of successful draws
 print(n / N)
+
+# 0.0087
